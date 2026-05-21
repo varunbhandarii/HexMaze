@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "sk-your-key-here",
+  "model": "gpt-4o-mini",
+  "max_tokens": 300,
+  "temperature": 0.4
+}

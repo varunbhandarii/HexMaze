@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MazeScene.unity
+    guid: 88e07395d7bbb7446b34b1306d869b82
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7ea9f5a2de4daf04b9a4b512d70bbfac, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0b0b0462e8e34554c96572e99cc86663, type: 2}
+  m_UseUCBPForAssetBundles: 0
